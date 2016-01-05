@@ -2,9 +2,12 @@
 
 - [http://ericlippert.com](http://ericlippert.com) - Eric Lippert's blog.
 - [http://codeblog.jonskeet.uk](http://codeblog.jonskeet.uk) - Jon Skeet's coding blog.
-- [https://byteonmyside.wordpress.com](https://byteonmyside.wordpress.com) - Lincoln Atkinson
 
 ### FSharp
+
+- [http://blog.ploeh.dk](Mark Seemann's blog) - Mark Seemann's blog.
+- [http://www.roundcrisis.com](http://www.roundcrisis.com) - Roundcrisis
+- [https://byteonmyside.wordpress.com](https://byteonmyside.wordpress.com) - Lincoln Atkinson
 - [http://bradcollins.com](http://bradcollins.com) - Brad Collins Religion, Politics, Tech, Language, Life.
 - [http://jackfoxy.com](http://jackfoxy.com) - Jack Fox.
 - [http://fsharpnews.blogspot.com](http://fsharpnews.blogspot.com) - Jon Harrop.
