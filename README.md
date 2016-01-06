@@ -6,6 +6,7 @@
 
 ### FSharp
 
+- [http://blog.leifbattermann.de](http://blog.leifbattermann.de) - LEIF BATTERMANN functional software design.
 - [http://blog.2mas.xyz](http://blog.2mas.xyz) - Tomas Jansson Me, myself and I.
 - [http://tomasp.net/blog](http://tomasp.net/blog) - Tomas Petricek's blog.
 - [http://blogs.msdn.com/b/fsharpteam](http://blogs.msdn.com/b/fsharpteam) - Visual Studio F# Team Blog.
