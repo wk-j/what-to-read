@@ -2,9 +2,12 @@
 
 - [http://ericlippert.com](http://ericlippert.com) - Eric Lippert's blog.
 - [http://codeblog.jonskeet.uk](http://codeblog.jonskeet.uk) - Jon Skeet's coding blog.
+- [http://weblogs.asp.net/dixin](http://weblogs.asp.net/dixin) - Dixin's Blog.
 
 ### FSharp
 
+- [http://tomasp.net/blog](http://tomasp.net/blog) - Tomas Petricek's blog.
+- [http://blogs.msdn.com/b/fsharpteam](http://blogs.msdn.com/b/fsharpteam) - Visual Studio F# Team Blog.
 - [http://blog.tamizhvendan.in](http://blog.tamizhvendan.in) - Tamizhvendan.
 - [http://blog.ploeh.dk](Mark Seemann's blog) - Mark Seemann's blog.
 - [http://www.roundcrisis.com](http://www.roundcrisis.com) - Roundcrisis
