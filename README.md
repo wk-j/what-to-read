@@ -1,5 +1,6 @@
 ### CSharp
 
+- [https://ayende.com/blog](https://ayende.com/blog) - ayende.
 - [http://ericlippert.com](http://ericlippert.com) - Eric Lippert's blog.
 - [http://codeblog.jonskeet.uk](http://codeblog.jonskeet.uk) - Jon Skeet's coding blog.
 - [http://weblogs.asp.net/dixin](http://weblogs.asp.net/dixin) - Dixin's Blog.
