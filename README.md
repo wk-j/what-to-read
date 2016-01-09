@@ -1,12 +1,21 @@
-### CSharp
 
+### JS
+
+- [http://www.bitnative.com](http://www.bitnative.com) - Cory House
+
+### CS
+
+- [http://asp.net-hacker.rocks](http://asp.net-hacker.rocks) - Jürgen Gutsch.
+- [http://www.codeinside.eu](http://www.codeinside.eu) - Robert Muehsig.
 - [https://ayende.com/blog](https://ayende.com/blog) - ayende.
 - [http://ericlippert.com](http://ericlippert.com) - Eric Lippert's blog.
 - [http://codeblog.jonskeet.uk](http://codeblog.jonskeet.uk) - Jon Skeet's coding blog.
 - [http://weblogs.asp.net/dixin](http://weblogs.asp.net/dixin) - Dixin's Blog.
+- [http://blogs.microsoft.co.il/sasha](http://blogs.microsoft.co.il/sasha) - Sasha Goldshtein
 
-### FSharp
+### FS
 
+- [http://vaskir.blogspot.com](http://vaskir.blogspot.com) - Vasily's blog.
 - [http://blog.leifbattermann.de](http://blog.leifbattermann.de) - LEIF BATTERMANN functional software design.
 - [http://blog.2mas.xyz](http://blog.2mas.xyz) - Tomas Jansson Me, myself and I.
 - [http://tomasp.net/blog](http://tomasp.net/blog) - Tomas Petricek's blog.
