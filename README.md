@@ -1,10 +1,13 @@
 
 ### JS
 
-- [http://www.bitnative.com](http://www.bitnative.com) - Cory House
+- [http://www.bitnative.com](http://www.bitnative.com) - Cory House.
 
 ### CS
 
+- [http://amy.palamounta.in](http://amy.palamounta.in) - amy palamountain.
+- [http://haacked.com](http://haacked.com) - Phil Haack.
+- [http://www.hanselman.com/blog](http://www.hanselman.com/blog) - SCOTT HANSELMAN.
 - [http://asp.net-hacker.rocks](http://asp.net-hacker.rocks) - Jürgen Gutsch.
 - [http://www.codeinside.eu](http://www.codeinside.eu) - Robert Muehsig.
 - [https://ayende.com/blog](https://ayende.com/blog) - ayende.
