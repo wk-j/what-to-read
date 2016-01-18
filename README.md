@@ -5,7 +5,8 @@
 
 ### CS
 
-- [http://amy.palamounta.in](http://amy.palamounta.in) - amy palamountain.
+- [http://codeopinion.com](http://codeopinion.com/) - Derek Comartin.
+- [http://amy.palamounta.in](http://amy.palamounta.in) - Amy Palamountain.
 - [http://haacked.com](http://haacked.com) - Phil Haack.
 - [http://www.hanselman.com/blog](http://www.hanselman.com/blog) - SCOTT HANSELMAN.
 - [http://asp.net-hacker.rocks](http://asp.net-hacker.rocks) - Jürgen Gutsch.
