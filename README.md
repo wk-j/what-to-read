@@ -5,6 +5,8 @@
 
 ### CS
 
+- [http://blogs.msdn.com/b/ricom](http://blogs.msdn.com/b/ricom) - Rico Mariani's Performance Tidbits.
+- [http://odetocode.com/blogs/all](http://odetocode.com/blogs/all) - K. Scott Allen.
 - [http://mattwarren.org](http://mattwarren.org) - Matt Warren, Performance is a Feature!.
 - [http://codeopinion.com](http://codeopinion.com/) - Derek Comartin.
 - [http://amy.palamounta.in](http://amy.palamounta.in) - Amy Palamountain.
