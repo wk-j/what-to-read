@@ -5,6 +5,9 @@
 
 ### CS
 
+- [http://www.go-mono.com/monologue](http://www.go-mono.com/monologue) - Monologue is powered by Mono and the Monologue software.
+- [http://tirania.org/blog](http://tirania.org/blog) - Personal blog of Miguel de Icaza.
+- [http://jonskeet.uk/csharp](http://jonskeet.uk/csharp) - Jon Skeet's C# and .NET articles and links.
 - [http://blogs.msdn.com/b/ricom](http://blogs.msdn.com/b/ricom) - Rico Mariani's Performance Tidbits.
 - [http://odetocode.com/blogs/all](http://odetocode.com/blogs/all) - K. Scott Allen.
 - [http://mattwarren.org](http://mattwarren.org) - Matt Warren, Performance is a Feature!.
@@ -22,6 +25,7 @@
 
 ### FS
 
+- [http://withouttheloop.com/archive.html](http://withouttheloop.com/archive.html) - Without the loop it is nothing.
 - [http://vaskir.blogspot.com](http://vaskir.blogspot.com) - Vasily's blog.
 - [http://blog.leifbattermann.de](http://blog.leifbattermann.de) - LEIF BATTERMANN functional software design.
 - [http://blog.2mas.xyz](http://blog.2mas.xyz) - Tomas Jansson Me, myself and I.
