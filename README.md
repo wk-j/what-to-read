@@ -25,6 +25,7 @@
 
 ### FS
 
+- [http://evelinag.com](http://evelinag.com) - Evelina Gabasova's blog.
 - [http://withouttheloop.com/archive.html](http://withouttheloop.com/archive.html) - Without the loop it is nothing.
 - [http://vaskir.blogspot.com](http://vaskir.blogspot.com) - Vasily's blog.
 - [http://blog.leifbattermann.de](http://blog.leifbattermann.de) - LEIF BATTERMANN functional software design.
