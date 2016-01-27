@@ -5,6 +5,15 @@
 
 ### CS
 
+- [http://blog.drorhelper.com](http://blog.drorhelper.com) - Helper Code Dror Helper's Blog.
+- [http://geekswithblogs.net/akraus1/Default.aspx](http://geekswithblogs.net/akraus1/Default.aspx) - Alois Kraus blog.
+- [http://blog.slaks.net](http://blog.slaks.net) - SLaks.Blog.
+- [http://thedatafarm.com/author/julie](http://thedatafarm.com/author/julie) - Julie Lerman's World of Data.
+- [http://madskristensen.net](http://madskristensen.net) - Mads Kristensen I build web tools and write about it here.
+- [http://www.filipekberg.se](http://www.filipekberg.se) - Filip Ekberg's Blog.
+- [http://blogs.msdn.com/b/wesdyer](http://blogs.msdn.com/b/wesdyer) - Yet Another Language Geek.
+- [http://www.alvinashcraft.com](http://www.alvinashcraft.com) - Alvin Ashcraft.
+- [http://michaelcrump.net/posts](http://michaelcrump.net/posts) - Michael Crump.
 - [http://www.go-mono.com/monologue](http://www.go-mono.com/monologue) - Monologue is powered by Mono and the Monologue software.
 - [http://tirania.org/blog](http://tirania.org/blog) - Personal blog of Miguel de Icaza.
 - [http://jonskeet.uk/csharp](http://jonskeet.uk/csharp) - Jon Skeet's C# and .NET articles and links.
@@ -25,6 +34,10 @@
 
 ### FS
 
+- [http://www.jefclaes.be](http://www.jefclaes.be) - Jef Claes On software and life.
+- [http://www.wintellect.com/devcenter/author/jwood](http://www.wintellect.com/devcenter/author/jwood) - JONATHAN WOOD.
+- [http://jeremybytes.blogspot.com](http://jeremybytes.blogspot.com) - Jeremy Bytes byte-sized chunks of .NET
+- [https://lostechies.com/jimmybogard/author/jimmybogard](https://lostechies.com/jimmybogard/author/jimmybogard) - Jimmy Bogard
 - [http://evelinag.com](http://evelinag.com) - Evelina Gabasova's blog.
 - [http://withouttheloop.com/archive.html](http://withouttheloop.com/archive.html) - Without the loop it is nothing.
 - [http://vaskir.blogspot.com](http://vaskir.blogspot.com) - Vasily's blog.
