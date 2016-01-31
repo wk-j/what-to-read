@@ -5,6 +5,10 @@
 
 ### CS
 
+- [http://www.bitesizedcsharp.com](http://www.bitesizedcsharp.com) - Bite-sized C#.
+- [http://naveensrinivasan.azurewebsites.net](http://naveensrinivasan.azurewebsites.net) - Naveen's Blog Husband,dad and write code.
+- [http://csharp.2000things.com](http://csharp.2000things.com) - 2,000 Things You Should Know About C#.
+- [https://joshvarty.wordpress.com](https://joshvarty.wordpress.com) - Shotgun Debugging.
 - [http://blog.drorhelper.com](http://blog.drorhelper.com) - Helper Code Dror Helper's Blog.
 - [http://geekswithblogs.net/akraus1/Default.aspx](http://geekswithblogs.net/akraus1/Default.aspx) - Alois Kraus blog.
 - [http://blog.slaks.net](http://blog.slaks.net) - SLaks.Blog.
@@ -28,6 +32,7 @@
 - [http://www.codeinside.eu](http://www.codeinside.eu) - Robert Muehsig.
 - [https://ayende.com/blog](https://ayende.com/blog) - ayende.
 - [http://ericlippert.com](http://ericlippert.com) - Eric Lippert's blog.
+- [https://blogs.msdn.microsoft.com/ericlippert](https://blogs.msdn.microsoft.com/ericlippert) - Fabulous Adventures In Coding.
 - [http://codeblog.jonskeet.uk](http://codeblog.jonskeet.uk) - Jon Skeet's coding blog.
 - [http://weblogs.asp.net/dixin](http://weblogs.asp.net/dixin) - Dixin's Blog.
 - [http://blogs.microsoft.co.il/sasha](http://blogs.microsoft.co.il/sasha) - Sasha Goldshtein
