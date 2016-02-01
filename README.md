@@ -5,6 +5,7 @@
 
 ### CS
 
+- [http://blog.paranoidcoding.com](http://blog.paranoidcoding.com) - PARANOID CODING The ramblings and rantings of @jaredpar.
 - [http://www.bitesizedcsharp.com](http://www.bitesizedcsharp.com) - Bite-sized C#.
 - [http://naveensrinivasan.azurewebsites.net](http://naveensrinivasan.azurewebsites.net) - Naveen's Blog Husband,dad and write code.
 - [http://csharp.2000things.com](http://csharp.2000things.com) - 2,000 Things You Should Know About C#.
