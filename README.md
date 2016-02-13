@@ -5,6 +5,7 @@
 
 ### CS
 
+- [http://www.palmmedia.de](http://www.palmmedia.de) - Daniel Palme .NET consultant from Germany.
 - [http://rogeralsing.com](http://rogeralsing.com) - Roger Johansson Blog Mostly C#, DDD and Akka.NET.
 - [http://blog.paranoidcoding.com](http://blog.paranoidcoding.com) - PARANOID CODING The ramblings and rantings of @jaredpar.
 - [http://www.bitesizedcsharp.com](http://www.bitesizedcsharp.com) - Bite-sized C#.
