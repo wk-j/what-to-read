@@ -5,6 +5,7 @@
 
 ### CS
 
+- [http://rogeralsing.com](http://rogeralsing.com) - Roger Johansson Blog Mostly C#, DDD and Akka.NET.
 - [http://blog.paranoidcoding.com](http://blog.paranoidcoding.com) - PARANOID CODING The ramblings and rantings of @jaredpar.
 - [http://www.bitesizedcsharp.com](http://www.bitesizedcsharp.com) - Bite-sized C#.
 - [http://naveensrinivasan.azurewebsites.net](http://naveensrinivasan.azurewebsites.net) - Naveen's Blog Husband,dad and write code.
@@ -40,6 +41,7 @@
 
 ### FS
 
+- [https://cockneycoder.wordpress.com/author/isaaca](https://cockneycoder.wordpress.com/author/isaaca) - Isaac Abraham.
 - [http://www.jefclaes.be](http://www.jefclaes.be) - Jef Claes On software and life.
 - [http://www.wintellect.com/devcenter/author/jwood](http://www.wintellect.com/devcenter/author/jwood) - JONATHAN WOOD.
 - [http://jeremybytes.blogspot.com](http://jeremybytes.blogspot.com) - Jeremy Bytes byte-sized chunks of .NET
