@@ -9,6 +9,7 @@
 
 ### CS
 
+- [http://blog.webrunners.de](http://blog.webrunners.de) - Das Blog der Webrunners GmbH.
 - [http://www.palmmedia.de](http://www.palmmedia.de) - Daniel Palme .NET consultant from Germany.
 - [http://rogeralsing.com](http://rogeralsing.com) - Roger Johansson Blog Mostly C#, DDD and Akka.NET.
 - [http://blog.paranoidcoding.com](http://blog.paranoidcoding.com) - PARANOID CODING The ramblings and rantings of @jaredpar.
@@ -46,6 +47,7 @@
 
 ### FS
 
+- [http://teadrivendev.github.io](http://teadrivendev.github.io) - Tea Drinking Development No sooner does one's right, already works.
 - [https://cockneycoder.wordpress.com/author/isaaca](https://cockneycoder.wordpress.com/author/isaaca) - Isaac Abraham.
 - [http://www.jefclaes.be](http://www.jefclaes.be) - Jef Claes On software and life.
 - [http://www.wintellect.com/devcenter/author/jwood](http://www.wintellect.com/devcenter/author/jwood) - JONATHAN WOOD.
