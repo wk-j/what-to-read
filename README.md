@@ -1,3 +1,7 @@
+### Xamarin
+
+- [https://www.syntaxismyui.com](https://www.syntaxismyui.com) - Syntax is my UI.
+- [http://arteksoftware.com](http://arteksoftware.com) - Artek Software Random Technical Musings.
 
 ### ELM
 
