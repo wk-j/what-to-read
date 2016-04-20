@@ -23,6 +23,7 @@
 - [https://joshvarty.wordpress.com](https://joshvarty.wordpress.com) - Shotgun Debugging.
 - [http://blog.drorhelper.com](http://blog.drorhelper.com) - Helper Code Dror Helper's Blog.
 - [http://geekswithblogs.net/akraus1/Default.aspx](http://geekswithblogs.net/akraus1/Default.aspx) - Alois Kraus blog.
+- [http://geekswithblogs.net/BlackRabbitCoder/Default.aspx](http://geekswithblogs.net/BlackRabbitCoder/Default.aspx) - James Michael Hare.
 - [http://blog.slaks.net](http://blog.slaks.net) - SLaks.Blog.
 - [http://thedatafarm.com/author/julie](http://thedatafarm.com/author/julie) - Julie Lerman's World of Data.
 - [http://madskristensen.net](http://madskristensen.net) - Mads Kristensen I build web tools and write about it here.
