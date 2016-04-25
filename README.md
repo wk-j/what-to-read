@@ -13,6 +13,7 @@
 
 ### CS
 
+- [http://blogs.tedneward.com](http://blogs.tedneward.com) - Ted Neward's Blog My ramblings on the Internet.
 - [http://blog.webrunners.de](http://blog.webrunners.de) - Das Blog der Webrunners GmbH.
 - [http://www.palmmedia.de](http://www.palmmedia.de) - Daniel Palme .NET consultant from Germany.
 - [http://rogeralsing.com](http://rogeralsing.com) - Roger Johansson Blog Mostly C#, DDD and Akka.NET.
