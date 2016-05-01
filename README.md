@@ -1,5 +1,6 @@
 ### Xamarin
 
+- [http://motzcod.es](http://motzcod.es) - MotzCod.es by James Montemagno
 - [https://www.syntaxismyui.com](https://www.syntaxismyui.com) - Syntax is my UI.
 - [http://arteksoftware.com](http://arteksoftware.com) - Artek Software Random Technical Musings.
 
@@ -53,6 +54,7 @@
 
 ### FS
 
+- [http://blog.stermon.com](http://blog.stermon.com) - Ramón Soto Mathiesen.
 - [http://jeremyabbott.github.io](http://jeremyabbott.github.io) - Jeremy Abbott
 - [http://kimsereyblog.blogspot.com](http://kimsereyblog.blogspot.com) - KIMSEREY'S BLOG
 - [http://sidburn.github.io](http://sidburn.github.io) - David Raab.
