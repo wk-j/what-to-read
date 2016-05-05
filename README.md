@@ -1,5 +1,6 @@
 ### Xamarin
 
+- [http://www.cazzulino.com](http://www.cazzulino.com) - Daniel Cazzulino
 - [http://www.davidbritch.com](http://www.davidbritch.com) - Dave's Tech Blog.
 - [http://motzcod.es](http://motzcod.es) - MotzCod.es by James Montemagno
 - [https://www.syntaxismyui.com](https://www.syntaxismyui.com) - Syntax is my UI.
@@ -15,6 +16,7 @@
 
 ### CS
 
+- [https://arbel.net](https://arbel.net) - Eli Arbel.
 - [https://blogs.msdn.microsoft.com/dotnet](https://blogs.msdn.microsoft.com/dotnet) - .NET Blog A first-hand look from the .NET engineering teams.
 - [http://blogs.tedneward.com](http://blogs.tedneward.com) - Ted Neward's Blog My ramblings on the Internet.
 - [http://blog.webrunners.de](http://blog.webrunners.de) - Das Blog der Webrunners GmbH.
