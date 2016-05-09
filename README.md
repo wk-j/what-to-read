@@ -1,5 +1,6 @@
 ### Xamarin
 
+- [http://www.gregshackles.com](http://www.gregshackles.com) - Greg Shackles.
 - [http://www.cazzulino.com](http://www.cazzulino.com) - Daniel Cazzulino
 - [http://www.davidbritch.com](http://www.davidbritch.com) - Dave's Tech Blog.
 - [http://motzcod.es](http://motzcod.es) - MotzCod.es by James Montemagno
