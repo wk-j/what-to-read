@@ -59,6 +59,7 @@
 
 ### FS
 
+- [http://www.rickyterrell.com](http://www.rickyterrell.com) - Riccardo Terrell.
 - [http://reidevans.tech](http://reidevans.tech) - Reid Evans.
 - [http://marisks.net](http://marisks.net) - marisks # code.
 - [http://blog.stermon.com](http://blog.stermon.com) - Ramón Soto Mathiesen.
