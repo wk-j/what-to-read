@@ -1,5 +1,7 @@
 ### Xamarin
 
+- [http://kent-boogaart.com](http://kent-boogaart.com) - Kent Boogaart.
+- [https://ghuntley.com](https://ghuntley.com) - Geoffrey Huntleyabout.
 - [http://www.gregshackles.com](http://www.gregshackles.com) - Greg Shackles.
 - [http://www.cazzulino.com](http://www.cazzulino.com) - Daniel Cazzulino
 - [http://www.davidbritch.com](http://www.davidbritch.com) - Dave's Tech Blog.
