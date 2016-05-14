@@ -1,5 +1,7 @@
 ### Xamarin
 
+- [http://pshomov.github.io](http://pshomov.github.io) - My name is Petar.
+- [http://www.thexamarinjournal.com](http://www.thexamarinjournal.com) - The Xamarin Journal Xamarin Development Notes.
 - [http://smstuebe.de](http://smstuebe.de) - Svens Blog Xamarin & C# posts.
 - [http://codeworks.it/blog](http://codeworks.it/blog) - Corrado's Blog 2.0 online thoughts of a technology funatic.
 - [http://kent-boogaart.com](http://kent-boogaart.com) - Kent Boogaart.
