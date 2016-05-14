@@ -23,6 +23,7 @@
 
 ### CS
 
+- [http://simoncropp.com](http://simoncropp.com) - Simon Cropp's Blog.
 - [https://arbel.net](https://arbel.net) - Eli Arbel.
 - [https://blogs.msdn.microsoft.com/dotnet](https://blogs.msdn.microsoft.com/dotnet) - .NET Blog A first-hand look from the .NET engineering teams.
 - [http://blogs.tedneward.com](http://blogs.tedneward.com) - Ted Neward's Blog My ramblings on the Internet.
