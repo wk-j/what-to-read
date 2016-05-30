@@ -23,6 +23,7 @@
 
 ### CS
 
+- [http://10printhello.com](http://10printhello.com) - 10 PRINT "HELLO"
 - [http://simoncropp.com](http://simoncropp.com) - Simon Cropp's Blog.
 - [https://arbel.net](https://arbel.net) - Eli Arbel.
 - [https://blogs.msdn.microsoft.com/dotnet](https://blogs.msdn.microsoft.com/dotnet) - .NET Blog A first-hand look from the .NET engineering teams.
