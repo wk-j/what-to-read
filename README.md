@@ -23,6 +23,7 @@
 
 ### CS
 
+- [http://aakinshin.net/en/blog](http://aakinshin.net/en/blog) - Andrey Akinshin
 - [http://10printhello.com](http://10printhello.com) - 10 PRINT "HELLO"
 - [http://simoncropp.com](http://simoncropp.com) - Simon Cropp's Blog.
 - [https://arbel.net](https://arbel.net) - Eli Arbel.
