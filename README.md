@@ -68,6 +68,7 @@
 
 ### FS
 
+- [https://medium.com/@haumohio](https://medium.com/@haumohio) - Peter Bayne.
 - [http://www.taimila.com](http://www.taimila.com) - Lauri Taimila.
 - [http://www.rickyterrell.com](http://www.rickyterrell.com) - Riccardo Terrell.
 - [http://reidevans.tech](http://reidevans.tech) - Reid Evans.
