@@ -13,14 +13,6 @@
 - [https://www.syntaxismyui.com](https://www.syntaxismyui.com) - Syntax is my UI.
 - [http://arteksoftware.com](http://arteksoftware.com) - Artek Software Random Technical Musings.
 
-### ELM
-
-- [https://yang-wei.github.io](https://yang-wei.github.io) - Undefined Rants Code, Ramen and Avocado.
-
-### JS
-
-- [http://www.bitnative.com](http://www.bitnative.com) - Cory House.
-
 ### CS
 
 - [http://thebillwagner.com/Blog](http://thebillwagner.com/Blog) - Bill Wagner - Bill Blogs in C#.
@@ -107,3 +99,12 @@
 - [http://bugsquash.blogspot.com](http://bugsquash.blogspot.com) - Bug squash Squashing bugs all day long.
 - [http://fsharpforfunandprofit.com](http://fsharpforfunandprofit.com) - F# for fun and profit.
 - [http://pinksquirrellabs.com/default.aspx](http://pinksquirrellabs.com/default.aspx) - Delusional software ramblings.
+
+### ELM
+
+- [https://yang-wei.github.io](https://yang-wei.github.io) - Undefined Rants Code, Ramen and Avocado.
+
+### JS
+
+- [http://www.bitnative.com](http://www.bitnative.com) - Cory House.
+
