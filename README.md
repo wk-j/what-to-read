@@ -23,6 +23,7 @@
 
 ### CS
 
+- [http://thebillwagner.com/Blog](http://thebillwagner.com/Blog) - Bill Wagner - Bill Blogs in C#.
 - [http://aakinshin.net/en/blog](http://aakinshin.net/en/blog) - Andrey Akinshin
 - [http://10printhello.com](http://10printhello.com) - 10 PRINT "HELLO"
 - [http://simoncropp.com](http://simoncropp.com) - Simon Cropp's Blog.
