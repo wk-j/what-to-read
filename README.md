@@ -15,6 +15,7 @@
 
 ### CS
 
+- [http://xoofx.com/blog](http://xoofx.com/blog) - Alexandre Mutel
 - [http://thebillwagner.com/Blog](http://thebillwagner.com/Blog) - Bill Wagner - Bill Blogs in C#.
 - [http://aakinshin.net/en/blog](http://aakinshin.net/en/blog) - Andrey Akinshin
 - [http://10printhello.com](http://10printhello.com) - 10 PRINT "HELLO"
