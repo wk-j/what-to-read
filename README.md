@@ -1,18 +1,3 @@
-### Xamarin
-
-- [http://pshomov.github.io](http://pshomov.github.io) - My name is Petar.
-- [http://www.thexamarinjournal.com](http://www.thexamarinjournal.com) - The Xamarin Journal Xamarin Development Notes.
-- [http://smstuebe.de](http://smstuebe.de) - Svens Blog Xamarin & C# posts.
-- [http://codeworks.it/blog](http://codeworks.it/blog) - Corrado's Blog 2.0 online thoughts of a technology funatic.
-- [http://kent-boogaart.com](http://kent-boogaart.com) - Kent Boogaart.
-- [https://ghuntley.com](https://ghuntley.com) - Geoffrey Huntleyabout.
-- [http://www.gregshackles.com](http://www.gregshackles.com) - Greg Shackles.
-- [http://www.cazzulino.com](http://www.cazzulino.com) - Daniel Cazzulino
-- [http://www.davidbritch.com](http://www.davidbritch.com) - Dave's Tech Blog.
-- [http://motzcod.es](http://motzcod.es) - MotzCod.es by James Montemagno
-- [https://www.syntaxismyui.com](https://www.syntaxismyui.com) - Syntax is my UI.
-- [http://arteksoftware.com](http://arteksoftware.com) - Artek Software Random Technical Musings.
-
 ### CS
 
 - [http://xoofx.com/blog](http://xoofx.com/blog) - Alexandre Mutel
@@ -60,6 +45,21 @@
 - [http://weblogs.asp.net/dixin](http://weblogs.asp.net/dixin) - Dixin's Blog.
 - [http://blogs.microsoft.co.il/sasha](http://blogs.microsoft.co.il/sasha) - Sasha Goldshtein
 
+### Xamarin
+
+- [http://pshomov.github.io](http://pshomov.github.io) - My name is Petar.
+- [http://www.thexamarinjournal.com](http://www.thexamarinjournal.com) - The Xamarin Journal Xamarin Development Notes.
+- [http://smstuebe.de](http://smstuebe.de) - Svens Blog Xamarin & C# posts.
+- [http://codeworks.it/blog](http://codeworks.it/blog) - Corrado's Blog 2.0 online thoughts of a technology funatic.
+- [http://kent-boogaart.com](http://kent-boogaart.com) - Kent Boogaart.
+- [https://ghuntley.com](https://ghuntley.com) - Geoffrey Huntleyabout.
+- [http://www.gregshackles.com](http://www.gregshackles.com) - Greg Shackles.
+- [http://www.cazzulino.com](http://www.cazzulino.com) - Daniel Cazzulino
+- [http://www.davidbritch.com](http://www.davidbritch.com) - Dave's Tech Blog.
+- [http://motzcod.es](http://motzcod.es) - MotzCod.es by James Montemagno
+- [https://www.syntaxismyui.com](https://www.syntaxismyui.com) - Syntax is my UI.
+- [http://arteksoftware.com](http://arteksoftware.com) - Artek Software Random Technical Musings.
+
 ### FS
 
 - [http://nut-cracker.azurewebsites.net](http://nut-cracker.azurewebsites.net) - Nut-Cracker.
@@ -101,11 +101,7 @@
 - [http://fsharpforfunandprofit.com](http://fsharpforfunandprofit.com) - F# for fun and profit.
 - [http://pinksquirrellabs.com/default.aspx](http://pinksquirrellabs.com/default.aspx) - Delusional software ramblings.
 
-### ELM
+### JS/ELM
 
 - [https://yang-wei.github.io](https://yang-wei.github.io) - Undefined Rants Code, Ramen and Avocado.
-
-### JS
-
 - [http://www.bitnative.com](http://www.bitnative.com) - Cory House.
-
