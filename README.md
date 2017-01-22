@@ -1,6 +1,6 @@
 ### CS
 
-- [http://tooslowexception.com] - PERFORMANCE, ARCHITECTURE, SOFTWARE CRAFTMANSHIP...
+- [http://tooslowexception.com](http://tooslowexception.com) - PERFORMANCE, ARCHITECTURE, SOFTWARE CRAFTMANSHIP...
 - [http://xoofx.com/blog](http://xoofx.com/blog) - Alexandre Mutel
 - [http://thebillwagner.com/Blog](http://thebillwagner.com/Blog) - Bill Wagner - Bill Blogs in C#.
 - [http://aakinshin.net/en/blog](http://aakinshin.net/en/blog) - Andrey Akinshin
