@@ -1,5 +1,7 @@
 ### CS
 
+
+- [https://blogs.msdn.microsoft.com/seteplia](https://blogs.msdn.microsoft.com/seteplia) - Sergey Teplyakov
 - [http://tooslowexception.com](http://tooslowexception.com) - PERFORMANCE, ARCHITECTURE, SOFTWARE CRAFTMANSHIP...
 - [http://xoofx.com/blog](http://xoofx.com/blog) - Alexandre Mutel
 - [http://thebillwagner.com/Blog](http://thebillwagner.com/Blog) - Bill Wagner - Bill Blogs in C#.
