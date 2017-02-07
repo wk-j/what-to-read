@@ -1,5 +1,6 @@
 ### CS
 
+- [https://mycodingplace.wordpress.com](https://mycodingplace.wordpress.com) - Dudi Keleti
 - [http://josephwoodward.co.uk](http://josephwoodward.co.uk) - JOSEPH WOODWARD
 - [https://blogs.msdn.microsoft.com/seteplia](https://blogs.msdn.microsoft.com/seteplia) - Sergey Teplyakov
 - [http://tooslowexception.com](http://tooslowexception.com) - PERFORMANCE, ARCHITECTURE, SOFTWARE CRAFTMANSHIP...
