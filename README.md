@@ -1,5 +1,6 @@
 ### CS
-
+- [http://bart-sokol.info/blog](http://bart-sokol.info/blog) - Code and beyond
+- [https://www.kenneth-truyers.net](https://www.kenneth-truyers.net) - Kenneth
 - [https://mycodingplace.wordpress.com](https://mycodingplace.wordpress.com) - Dudi Keleti
 - [http://josephwoodward.co.uk](http://josephwoodward.co.uk) - JOSEPH WOODWARD
 - [https://blogs.msdn.microsoft.com/seteplia](https://blogs.msdn.microsoft.com/seteplia) - Sergey Teplyakov
