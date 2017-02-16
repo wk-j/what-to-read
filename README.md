@@ -1,4 +1,11 @@
+
+- [http://programmingisterrible.com](http://programmingisterrible.com) - programming is terrible
+
 ### CS
+
+- [http://blog.somewhatabstract.com](http://blog.somewhatabstract.com) - somewhat abstract
+- [http://www.tomdupont.net](http://www.tomdupont.net) - Tom DuPont .NET
+- [https://rogerjohansson.blog](https://rogerjohansson.blog) - Roger Johansson
 - [http://bart-sokol.info/blog](http://bart-sokol.info/blog) - Code and beyond
 - [https://www.kenneth-truyers.net](https://www.kenneth-truyers.net) - Kenneth
 - [https://mycodingplace.wordpress.com](https://mycodingplace.wordpress.com) - Dudi Keleti
