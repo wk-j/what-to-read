@@ -4,6 +4,7 @@
 
 ### CS
 
+- [http://blog.stephencleary.com](http://blog.stephencleary.com) - Stephen Cleary.
 - [http://www.davidarno.org](http://www.davidarno.org) - The random utterances of David Arno
 - [http://blog.somewhatabstract.com](http://blog.somewhatabstract.com) - somewhat abstract
 - [http://www.tomdupont.net](http://www.tomdupont.net) - Tom DuPont .NET
