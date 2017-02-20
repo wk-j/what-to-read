@@ -4,6 +4,7 @@
 
 ### CS
 
+- [https://aabs.wordpress.com](https://aabs.wordpress.com) - The Wandering Glitch
 - [https://blog.cincura.net](https://blog.cincura.net) - Jiří {x2} Činčura
 - [http://blog.stephencleary.com](http://blog.stephencleary.com) - Stephen Cleary.
 - [http://www.davidarno.org](http://www.davidarno.org) - The random utterances of David Arno
