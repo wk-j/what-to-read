@@ -4,6 +4,7 @@
 
 ### CS
 
+- [https://blog.cincura.net](https://blog.cincura.net) - Jiří {x2} Činčura
 - [http://blog.stephencleary.com](http://blog.stephencleary.com) - Stephen Cleary.
 - [http://www.davidarno.org](http://www.davidarno.org) - The random utterances of David Arno
 - [http://blog.somewhatabstract.com](http://blog.somewhatabstract.com) - somewhat abstract
