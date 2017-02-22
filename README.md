@@ -4,6 +4,7 @@
 
 ### CS
 
+- [http://blog.i3arnon.com](http://blog.i3arnon.com) - Bar Arnon, 2016
 - [http://www.planetgeek.ch](http://www.planetgeek.ch) - Your source of geek knowledge.
 - [https://aabs.wordpress.com](https://aabs.wordpress.com) - The Wandering Glitch
 - [https://blog.cincura.net](https://blog.cincura.net) - Jiří {x2} Činčura
