@@ -4,6 +4,7 @@
 
 ### CS
 
+- [https://blog.adamfurmanek.pl](https://blog.adamfurmanek.pl) - Random IT Utensils
 - [http://blog.i3arnon.com](http://blog.i3arnon.com) - Bar Arnon, 2016
 - [http://www.planetgeek.ch](http://www.planetgeek.ch) - Your source of geek knowledge.
 - [https://aabs.wordpress.com](https://aabs.wordpress.com) - The Wandering Glitch
