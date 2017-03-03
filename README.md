@@ -4,6 +4,7 @@
 
 ### CS
 
+- [http://curiousskeptic.com](http://curiousskeptic.com) - My Mind to Your Mind.
 - [https://blog.adamfurmanek.pl](https://blog.adamfurmanek.pl) - Random IT Utensils
 - [http://blog.i3arnon.com](http://blog.i3arnon.com) - Bar Arnon, 2016
 - [http://www.planetgeek.ch](http://www.planetgeek.ch) - Your source of geek knowledge.
@@ -65,10 +66,9 @@
 - [http://weblogs.asp.net/dixin](http://weblogs.asp.net/dixin) - Dixin's Blog.
 - [http://blogs.microsoft.co.il/sasha](http://blogs.microsoft.co.il/sasha) - Sasha Goldshtein
 
-
-
 ### FS
 
+- [https://pblasucci.wordpress.com](https://pblasucci.wordpress.com) - Paulmichael Blasucci's Software Engineering Weblog.
 - [http://nut-cracker.azurewebsites.net](http://nut-cracker.azurewebsites.net) - Nut-Cracker.
 - [https://medium.com/@haumohio](https://medium.com/@haumohio) - Peter Bayne.
 - [http://www.taimila.com](http://www.taimila.com) - Lauri Taimila.
