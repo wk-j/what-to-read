@@ -95,7 +95,7 @@
 - [http://tomasp.net/blog](http://tomasp.net/blog) - Tomas Petricek's blog.
 - [http://blogs.msdn.com/b/fsharpteam](http://blogs.msdn.com/b/fsharpteam) - Visual Studio F# Team Blog.
 - [http://blog.tamizhvendan.in](http://blog.tamizhvendan.in) - Tamizhvendan.
-- [http://blog.ploeh.dk](Mark Seemann blog) - Mark Seemann's blog.
+- [http://blog.ploeh.dk](ttp://blog.ploeh.dk) - Mark Seemann's blog.
 - [http://www.roundcrisis.com](http://www.roundcrisis.com) - Roundcrisis
 - [https://byteonmyside.wordpress.com](https://byteonmyside.wordpress.com) - Lincoln Atkinson
 - [http://bradcollins.com](http://bradcollins.com) - Brad Collins Religion, Politics, Tech, Language, Life.
