@@ -70,6 +70,7 @@
 
 ### FS
 
+- [https://eiriktsarpalis.wordpress.com](https://eiriktsarpalis.wordpress.com/) - EIRIK TSARPALIS' BLOG.
 - [http://anthonylloyd.github.io](http://anthonylloyd.github.io) - Anthony Lloyd Personal blog on F# and maybe a little maths.
 - [https://pblasucci.wordpress.com](https://pblasucci.wordpress.com) - Paulmichael Blasucci's Software Engineering Weblog.
 - [http://nut-cracker.azurewebsites.net](http://nut-cracker.azurewebsites.net) - Nut-Cracker.
