@@ -4,6 +4,7 @@
 
 ### CS
 
+- [http://yizhang82.me](http://yizhang82.me) - yizhang82's blog Runtime, Compilers, Languages, and other random stuff.
 - [http://mustoverride.com](http://mustoverride.com) - VSadov's Blog.
 - [http://joashc.github.io](http://joashc.github.io) - http://joashc.github.io
 - [http://mikhail.io](http://mikhail.io) - Mikhail Shilkov.
@@ -71,6 +72,7 @@
 
 ### FS
 
+- [https://blog.markvincze.com](https://blog.markvincze.com) - Mark Vincze's coding blog.
 - [https://eiriktsarpalis.wordpress.com](https://eiriktsarpalis.wordpress.com/) - EIRIK TSARPALIS' BLOG.
 - [http://anthonylloyd.github.io](http://anthonylloyd.github.io) - Anthony Lloyd Personal blog on F# and maybe a little maths.
 - [https://pblasucci.wordpress.com](https://pblasucci.wordpress.com) - Paulmichael Blasucci's Software Engineering Weblog.
