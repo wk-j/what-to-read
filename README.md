@@ -1,5 +1,6 @@
 ## Programming
 
+- [Programming Languages](http://rosettacode.org/wiki/Category:Programming_Languages)
 - [http://programmingisterrible.com](http://programmingisterrible.com) - programming is terrible
 
 ### CS
